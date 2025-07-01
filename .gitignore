@@ -27,3 +27,33 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Arquivos de build
+/out/
+/target/
+
+# Arquivos compilados
+*.class
+
+# Configurações do IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema operacional
+
+Thumbs.db
+
+# Dependências externas (se usar Maven ou Gradle)
+# /dependency-reduced-pom.xml
+# /.mvn/
+# /.gradle/
+# /build/
+
+# Arquivos gerados pelo IntelliJ ao executar testes
+/test-output/
