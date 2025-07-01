@@ -1,4 +1,4 @@
-# iSoul - Assistente Virtual Integrado ao iPhone 2007 (Desafio POO DIO)
+# iSoul - Assistente Virtual  (Desafio POO DIO)
 
 ## Descrição
 
